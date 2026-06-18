@@ -102,7 +102,7 @@ rfm['Cluster'] = kmeans.fit_predict(rfm_scaled)
 | **Loyal** | 3,841 | 67 days | 7 orders | $3,009 |
 | **Lost** | 1,998 | 463 days | 2 orders | $765 |
 
-![Customer Segments](charts/customer_segments.png)
+![Customer Segments](https://github.com/kswl4/Retail-Customer-Segmentation-/blob/main/customer_segments.png)
 ![Spend by Segment](charts/spend_by_segment.png)
 
 ---
