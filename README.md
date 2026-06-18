@@ -82,7 +82,7 @@ rfm = df_clean.groupby('Customer ID').agg(
 
 KMeans clustering was applied to scaled RFM values. The elbow method identified **4** as the optimal number of clusters.
 
-![Elbow Chart](charts/elbow_chart.png)
+![Elbow Chart](https://github.com/kswl4/Retail-Customer-Segmentation-/blob/main/elbow_chart.png)
 
 ---
 
