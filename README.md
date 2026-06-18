@@ -57,7 +57,7 @@ df_clean = df_clean[df_clean['Price'] > 0]
 | **After** | 805,549 |
 
 ![Before Cleaning](https://github.com/kswl4/Retail-Customer-Segmentation-/blob/main/Screenshot%202026-06-17%20at%208.43.46%20PM.png)
-![After Cleaning](charts/after_cleaning.png)
+![After Cleaning](https://github.com/kswl4/Retail-Customer-Segmentation-/blob/main/Screenshot%202026-06-17%20at%208.44.04%20PM.png)
 
 ---
 
